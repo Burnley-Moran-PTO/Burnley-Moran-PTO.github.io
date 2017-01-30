@@ -1,0 +1,22 @@
+.usa-hero {
+  background-image: url("../img/hero.jpg");
+}
+
+@media screen and (min-width: 481px) {
+  .usa-hero-callout {
+    max-width: 38rem;
+  }
+}
+
+@media screen and (min-width: 951px) {
+  .usa-header-basic .usa-navbar {
+    width: 45%;
+  }
+  .usa-header-basic em {
+    font-size: 3.2rem;
+    line-height: 1;
+  }
+  .usa-nav-primary a.usa-current {
+    border-left: none;
+  }
+}

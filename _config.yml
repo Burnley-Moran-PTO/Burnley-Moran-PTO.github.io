@@ -1,0 +1,26 @@
+title: Burnley-Moran School PTO
+email: burnleymoranpto@gmail.com
+description: >
+  The Burnley-Moran Parent Teacher Organization is a non-profit aimed at
+  fostering a vibrant school community and supporting quality education for
+  all Burnley-Moran students.
+baseurl: ""
+url: "http://burnleymoranpto.org"
+
+github:
+  organization: Burnley-Moran-PTO
+  repository: Burnley-Moran-PTO.github.io
+  default_branch: master
+
+scripts:
+  - /assets/js/uswds.min.js
+stylesheets:
+  - /assets/css/uswds.min.css
+  - /assets/css/theme.css
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+exclude:
+  - Gemfile
+  - Gemfile.lock

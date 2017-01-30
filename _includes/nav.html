@@ -1,0 +1,16 @@
+<nav role="navigation" class="usa-nav">
+  <button class="usa-nav-close">
+    <img src="/assets/img/close.svg" alt="close">
+  </button>
+  <ul class="usa-nav-primary usa-accordion">
+  {% for p in site.pages %}
+    {% if p.layout != "home" %}
+      <li>
+        <a class="usa-nav-link{% if page.url == p.url %} usa-current{% endif %}" href="{{ site.baseurl }}{{ p.url }}">
+          <span>{{ p.title }}</span>
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</nav>

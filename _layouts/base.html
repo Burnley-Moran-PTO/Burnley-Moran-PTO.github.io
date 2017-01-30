@@ -1,0 +1,35 @@
+<!doctype html>
+  <html lang="en">
+    <head>
+      {% include head.html %}
+    </head>
+    <body class="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}">
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+    <header class="usa-header usa-header-basic" role="banner">
+      <div class="usa-nav-container">
+        <div class="usa-navbar">
+          <button class="usa-menu-btn">Menu</button>
+          <div class="usa-logo" id="logo">
+            <em class="usa-logo-text">
+              <a href="/" accesskey="1" title="Home" aria-label="Home">{{ site.title }}</a>
+            </em>
+          </div>
+        </div>
+        {% include nav.html %}
+      </div>
+    </header>
+    <div class="usa-overlay"></div>
+    {{ content }}
+    <footer class="usa-footer usa-footer-slim" role="contentinfo">
+      <div class="usa-footer-secondary_section">
+        <div class="usa-grid">
+          <div class="usa-footer-primary-content">
+            <p>&copy; {{ site.time | date: '%Y' }} Copyright {{ site.title }}</p>
+          </div>
+        </div>
+      </div>
+    </footer>    
+    {% include scripts.html %}
+    {% include analytics.html %}
+    </body>
+  </html>

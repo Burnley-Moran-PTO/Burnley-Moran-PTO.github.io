@@ -1,0 +1,52 @@
+---
+layout: page
+title: Ways to Give
+permalink: /give/
+description: There are many ways to give to the PTO, whether it be your time, expertise, or money. Any of these will have a huge impact on our school and our children's education.
+---
+
+The PTO runs several fundraisers throughout the year. We have handpicked programs we feel will be the most successful for the school. If you don't like to participate in fundraisers, you can also donate (anchor to donate blurb) directly to the Burnley-Moran PTO.
+
+## Volunteer
+There are many ways you can volunteer at Burnley-Moran, from PTO events and programs to general school-wide opportunities. The PTO has a spot for everyone-even if you only have an hour to give! We need volunteers at events, behind the scenes workers and committee chairs. We need cookies baked, events attended and money raised. We hope you will join us! Volunteer opportunities often arise throughout the year and will be posted on this website, our facebook page, and in the monthly newsletter.
+
+## Make a donation
+The Burnley-Moran PTO budget will be directed toward supporting the cultural arts, technology needs, and field trips, along with essential classroom supplies and many other needs at BME.
+
+<a class="usa-button usa-button-big" href="#">PayPal Donation</a>
+
+We welcome you to make a contribution to the Burnely-Moran Elementray PTO Fund anytime throughout the school year.  Please contact us if you would prefer to write a check.
+
+## Fundraising Events
+
+The Burnely-Moran PTO sponsors annual fundraising events. Our signature events are the Walk-a-Thon, Sock Hop, Spring Fling, and new in 2017 a Family Color Run! 
+
+Visit our Events page to learn more about our fundraisers and free community events.
+
+### Restaurant days
+
+Restaurant Days offer families a chance to have a day off from cooking while also earning money for the school.  Burnley-Moran receives a portion of the proceeds from the restaurant’s sales brought in by BME families on the designated days.
+
+All we need is your participation... the more BME families patronize these restaurants on the designated days, the more Burnley-Moran will benefit.  Use the schedule below to mark your calendars for the 2016 – 2017 school year and let us help make your mealtime easier! 
+
+#### Fabio’s Pizza
+* Wed, February 15
+* Wed, March 15
+* Wed, April 19
+* Wed, May 17
+
+_Make sure to bring the flyer with you to receive credit._
+
+## Other ways to give
+
+#### Box Tops
+Make sure to clip your Box Tops and send them in to school with your child  to earn cash for the PTO. Each Box Top is worth 10 cents! For a list of participating Box Tops products click here:  http://www.boxtops4education.com/participating-products
+
+#### Link - Shop - Earn!
+Our school and PTO can earn considerable funds through rewards programs offered by Giant, Harris Teeter, and Kroger. Follow the instructions below to link your accounts to start benefitting the school with your regular shopping - your support really pays off! 
+
+To link your card, visit a participating store’s customer service desk, and give them our school code found below. It’s that simple!
+
+* **Giant**: 02783
+* **Harris Teeter**: 4880
+* **Kroger**: 90856
