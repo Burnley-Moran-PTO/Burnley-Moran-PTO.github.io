@@ -1,0 +1,27 @@
+---
+layout: base
+---
+
+{% assign hero = page.hero %}
+{% include components/hero.html %}
+
+{% if page.tagline and page.intro %}
+<section class="usa-grid usa-section">
+  <div class="usa-width-one-third">
+    <h3 class="usa-heading-alt">Upcoming events</h3>
+    <ul>
+      {% assign sortedPosts = site.posts | sort: 'event_date' %}
+      {% for post in sortedPosts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a><br />
+          <em>{{ post.event_date | date: "%m/%d/%Y" }}</em>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="usa-width-two-thirds">
+    <h2>{{ page.tagline }}</h2>
+    {{ page.intro | markdownify }}
+  </div>
+</section>
+{% endif %}

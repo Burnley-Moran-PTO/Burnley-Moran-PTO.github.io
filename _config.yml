@@ -12,15 +12,16 @@ github:
   repository: Burnley-Moran-PTO.github.io
   default_branch: master
 
-scripts:
-  - /assets/js/uswds.min.js
-stylesheets:
-  - /assets/css/uswds.min.css
-  - /assets/css/theme.css
+theme: jekyll-uswds
+
+sass:
+  sass_dir: _sass
+
+styles:
+  - /assets/main.css
 
 # Build settings
 markdown: kramdown
-include: ['_pages']
 exclude:
   - Gemfile
   - Gemfile.lock

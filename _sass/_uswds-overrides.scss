@@ -1,0 +1,44 @@
+.usa-heading-alt {
+  border-bottom: 1px solid $color-gray;
+  padding-bottom: .8rem;
+}
+
+.usa-heading {
+  color: $color-primary-darker;
+}
+
+.usa-layout-docs-main_content header > h1 {
+  display: inline-block;
+  margin-top: 0;
+}
+
+.usa-nav-primary a.usa-current {
+  border-left: none;
+}
+
+// Hero -------------- //
+
+.usa-hero-callout-alt {
+  color: #ffffff;
+  display: block;
+}
+
+.usa-hero-callout .usa-button {
+  margin-top: 2em;
+
+  &.usa-button-secondary {
+    color: $color-base;
+  }
+}
+
+@include media($small-screen) {
+  .usa-hero-callout {
+    max-width: 31rem;
+  }
+}
+
+// Footer -------------- //
+
+.usa-footer-logo {
+  min-height: 1px;
+}
