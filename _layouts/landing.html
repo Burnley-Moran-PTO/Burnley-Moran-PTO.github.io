@@ -10,11 +10,11 @@ layout: base
   <div class="usa-width-one-third">
     <h3 class="usa-heading-alt">Upcoming events</h3>
     <ul>
-      {% assign sortedPosts = site.posts | sort: 'event_date' %}
-      {% for post in sortedPosts %}
+      {% assign sortedEvents = site.events | sort: 'event_date' %}
+      {% for event in sortedEvents %}
         <li>
-          <a href="{{ post.url }}">{{ post.title }}</a><br />
-          <em>{{ post.event_date | date: "%m/%d/%Y" }}</em>
+          <a href="{{ event.url }}">{{ event.title }}</a><br />
+          <em>{{ event.event_date | date: "%m/%d/%Y" }}</em>
         </li>
       {% endfor %}
     </ul>

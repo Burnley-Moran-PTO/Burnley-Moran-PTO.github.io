@@ -1,3 +1,2 @@
-source "http://rubygems.org"
-
-gem 'jekyll-uswds', :git => 'https://github.com/18F/jekyll-uswds.git'
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins

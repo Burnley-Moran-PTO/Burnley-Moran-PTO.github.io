@@ -1,9 +1,17 @@
 ---
-layout: docs
 title: Events
 permalink: /events/
 description: The Burnely-Moran PTO sponsors annual fundraising events. Our signature events are the Walk-a-Thon, Sock Hop, Spring Fling, and new in 2017 a Family Color Run! 
 ---
+
+## Upcoming events
+
+{% assign sortedEvents = site.events | sort: 'event_date' %}
+{% for event in sortedEvents %}
+  * [{{ event.title }}]({{ event.url }})\\
+    _{{ event.event_date | date: "%m/%d/%Y" }}_
+{% endfor %}
+
 
 ## Restaurant days
 

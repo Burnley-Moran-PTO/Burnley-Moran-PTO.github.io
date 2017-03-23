@@ -4,15 +4,26 @@ description: >
   The Burnley-Moran Parent Teacher Organization is a non-profit aimed at
   fostering a vibrant school community and supporting quality education for
   all Burnley-Moran students.
-baseurl: ""
-url: "http://burnleymoranpto.org"
 
 github:
   organization: Burnley-Moran-PTO
   repository: Burnley-Moran-PTO.github.io
   default_branch: master
 
-theme: jekyll-uswds
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "docs"
+
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path/
+  pages:
+    output: true
+    permalink: /:path/
 
 sass:
   sass_dir: _sass
@@ -20,8 +31,10 @@ sass:
 styles:
   - /assets/main.css
 
-# Build settings
 markdown: kramdown
 exclude:
+  - CNAME
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - package.json

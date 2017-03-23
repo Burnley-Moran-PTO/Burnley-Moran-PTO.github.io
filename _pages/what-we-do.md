@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: What We Do
 permalink: /what-we-do/
 description: The Burnley-Moran Parent Teacher Organization is a non-profit aimed at fostering a vibrant school community and supporting quality education for all Burnley-Moran students.

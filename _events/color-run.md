@@ -1,6 +1,5 @@
 ---
-layout: docs
-title:  "Paint the Playground Color Run"
+title: Paint the Playground Color Run
 event_date: 2017-04-15
 ---
 

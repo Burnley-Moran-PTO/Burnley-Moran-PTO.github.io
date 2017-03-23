@@ -1,6 +1,5 @@
 ---
-layout: docs
-title:  "Spring Fling"
+title: Spring Fling
 event_date: 2017-04-21
 ---
 

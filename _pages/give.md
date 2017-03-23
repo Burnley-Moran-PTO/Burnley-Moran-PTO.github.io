@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Ways to Give
 permalink: /give/
 description: There are many ways to give to the PTO, whether it be your time, expertise, or money. Any of these will have a huge impact on our school and our children's education.

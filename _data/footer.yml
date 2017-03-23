@@ -5,7 +5,7 @@ top: false
 # Which links to show at the top of the footer.
 # This can key into _data/navigation.yml or a list of link objects
 # with 'text' and 'href' properties.
-links: primary
+links: false
 
 # The optional heading for the footer.
 heading: false
