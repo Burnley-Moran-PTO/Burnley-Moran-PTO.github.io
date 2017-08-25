@@ -30,8 +30,10 @@ sass:
 
 styles:
   - /assets/main.css
+  
+kramdown:
+  hard_wrap: true
 
-markdown: kramdown
 exclude:
   - CNAME
   - Gemfile
