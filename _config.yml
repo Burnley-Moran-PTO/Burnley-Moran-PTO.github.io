@@ -35,6 +35,7 @@ kramdown:
   hard_wrap: true
 
 exclude:
+  - assets/*.md
   - CNAME
   - Gemfile
   - Gemfile.lock
