@@ -5,6 +5,8 @@ event_date: 2017-09-18
 
 # September PTO Meeting
 
+<img src="/assets/img/ptotodolist.png" width="300" alt="Image of to do list">
+
 Tuesday, September 18  
 6:00 - 7:00 PM  
 Burnley-Moran Elementary School Library  
