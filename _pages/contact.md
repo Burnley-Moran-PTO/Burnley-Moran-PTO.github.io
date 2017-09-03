@@ -9,7 +9,7 @@ permalink: /contact/
 Kristin Clarens &amp; Keisha Washington
 
 ## Contact the PTO
-<form class="usa-form" action="https://formspree.io/hursey013@gmail.com" method="POST">
+<form class="usa-form" action="https://formspree.io/drewchurst@gmail.com" method="POST">
   <input type="hidden" name="_next" value="{{ site.url }}" />
   <input type="hidden" name="_subject" value="Contact form: {{ site.title }}" />
   <label for="name">You name</label>
