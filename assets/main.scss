@@ -1,16 +1,8 @@
 ---
 ---
 
-$font-path:   'uswds/fonts';
-$image-path:  'uswds/img';
-
-$color-gold: #fdb81e;
-$color-gold-dark: darken($color-gold, 10%);
-$color-gold-darkest: darken($color-gold, 17%);
-
-$color-secondary: $color-gold;
-$color-secondary-dark: $color-gold-dark;
-$color-secondary-darkest: $color-gold-darkest;
+$font-path: 'uswds/fonts';
+$image-path: 'uswds/img';
 
 @import 'uswds/all';
-@import 'uswds-overrides';
+@import 'overrides';

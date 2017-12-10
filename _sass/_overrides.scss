@@ -1,0 +1,6 @@
+@include media($nav-width) {
+  .usa-header-basic .usa-navbar {
+    position: relative;
+    width: 35%;
+  }
+}

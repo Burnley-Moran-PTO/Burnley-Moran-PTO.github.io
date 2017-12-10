@@ -1,7 +1,7 @@
 ---
 title: Ways to Give
 permalink: /give/
-description: There are many ways to give to the PTO, whether it be your time, expertise, or money. Any of these will have a huge impact on our school and our children's education.
+intro: There are many ways to give to the PTO, whether it be your time, expertise, or money. Any of these will have a huge impact on our school and our children's education.
 ---
 
 The PTO runs several fundraisers throughout the year. We have handpicked programs we feel will be the most successful for the school. If you don't like to participate in fundraisers, you can also donate directly to the Burnley-Moran PTO.

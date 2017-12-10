@@ -2,7 +2,7 @@
 title: Home
 permalink: /
 
-layout: landing
+layout: home
 
 hero:
   image: /assets/img/hero.jpg

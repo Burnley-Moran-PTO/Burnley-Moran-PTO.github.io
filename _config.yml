@@ -10,12 +10,23 @@ github:
   repository: Burnley-Moran-PTO.github.io
   default_branch: master
 
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: 18f/uswds-jekyll
+
+styles:
+  - /assets/main.css
+
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
-      layout: "docs"
+      layout: "page"
+  - scope:
+      path: "assets/uswds"
+    values:
+      skip_index: true
 
 collections:
   events:
@@ -25,19 +36,7 @@ collections:
     output: true
     permalink: /:path/
 
-sass:
-  sass_dir: _sass
-
-styles:
-  - /assets/main.css
-  
-kramdown:
-  hard_wrap: true
-
 exclude:
-  - assets/*.md
   - CNAME
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - package.json
