@@ -32,8 +32,8 @@ intro: |
   <div class="usa-width-one-third">
     <h3>Upcoming events</h3>
     <ul>
-      {% assign sortedEvents = site.events | sort: 'event_date' | reverse %}
-      {% for event in sortedEvents limit:3 %}
+      {% assign sortedEvents = site.events | sort: 'event_date' %}
+      {% for event in sortedEvents %}
         <li><a href="{{ event.url }}">{{ event.title }}</a><br>
         <em>{{ event.event_date | date: "%m/%d/%Y" }}</em></li>
       {% endfor %}

@@ -7,9 +7,9 @@ permalink: /events/
 
 ## Upcoming events
 
-{% assign sortedEvents = site.events | sort: 'event_date' | reverse %}
-{% for event in sortedEvents limit:3 %}
-  * [{{ event.title }}]({{ event.url }})
-    _{{ event.event_date | date: "%m/%d/%Y" }}_
+{% assign sortedEvents = site.events | sort: 'event_date' %}
+{% for event in sortedEvents %}
+* [{{ event.title }}]({{ event.url }})
+  _{{ event.event_date | date: "%m/%d/%Y" }}_
 {% endfor %}
 
