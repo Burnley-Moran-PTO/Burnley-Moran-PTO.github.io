@@ -1,8 +1,9 @@
 ---
 title: Newsletters
 permalink: /newsletters/
-description: We send home a monthly newsletter in the student’s backpacks. If you prefer a digital copy via email please contact us!
 ---
+
+<p class="usa-font-lead">We send home a monthly newsletter in the student’s backpacks. If you prefer a digital copy via email please contact us!</p>
 
 * [January 2017]({{ 'downloads/2017-01.docx' | relative_url }})
 * [December 2016]({{ 'downloads/2016-12.docx' | relative_url }})

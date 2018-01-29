@@ -1,24 +1,14 @@
-# This is the configuration for the site header.
-
-# Uncomment this statement (by removing the leading '# ') to set the
-# header title differently from the site's title (as defined in
-# _config.yml).
-# title: Header title
-
-homepage: '/'
+type: extended
 
 primary:
-  # this is a key into _data/navigation.yml
-  links: primary
-
-secondary:
-  # this is a key into _data/navigation.yml
-  links: secondary
-
-  # to enable search, change this to an object with 'action' and
-  # 'param' keys, e.g.
-  #
-  # search:
-  #   action: /search/
-  #   param: q
-  search: false
+  links:
+    - text: What We Do
+      href: /what-we-do/
+    - text: Ways to Give
+      href: /give/
+    - text: Events
+      href: /events/
+    - text: Newsletters
+      href: /newsletters/
+    - text: Contact Us
+      href: /contact/

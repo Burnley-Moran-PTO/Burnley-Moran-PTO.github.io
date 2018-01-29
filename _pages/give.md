@@ -1,8 +1,9 @@
 ---
 title: Ways to Give
 permalink: /give/
-description: There are many ways to give to the PTO, whether it be your time, expertise, or money. Any of these will have a huge impact on our school and our children's education.
 ---
+
+<p class="usa-font-lead">There are many ways to give to the PTO, whether it be your time, expertise, or money. Any of these will have a huge impact on our school and our children's education.</p>
 
 The PTO runs several fundraisers throughout the year. We have handpicked programs we feel will be the most successful for the school. If you don't like to participate in fundraisers, you can also donate directly to the Burnley-Moran PTO.
 
@@ -22,7 +23,7 @@ We welcome you to make a contribution to the Burnely-Moran Elementray PTO Fund a
 Make sure to clip your Box Tops and send them in to school with your child  to earn cash for the PTO. Each Box Top is worth 10 cents! For a list of participating Box Tops products click here:  http://www.boxtops4education.com/participating-products
 
 ### Link - Shop - Earn!
-Our school and PTO can earn considerable funds through rewards programs offered by Giant, Harris Teeter, and Kroger. Follow the instructions below to link your accounts to start benefitting the school with your regular shopping - your support really pays off! 
+Our school and PTO can earn considerable funds through rewards programs offered by Giant, Harris Teeter, and Kroger. Follow the instructions below to link your accounts to start benefitting the school with your regular shopping - your support really pays off!
 
 To link your card, visit a participating store’s customer service desk, and give them our school code found below. It’s that simple!
 

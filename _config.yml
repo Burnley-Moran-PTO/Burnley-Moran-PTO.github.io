@@ -5,17 +5,17 @@ description: >
   fostering a vibrant school community and supporting quality education for
   all Burnley-Moran students.
 
-github:
-  organization: Burnley-Moran-PTO
-  repository: Burnley-Moran-PTO.github.io
-  default_branch: master
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: 18f/uswds-jekyll@38f6d3ceac7a04fa6d53ebcbaace81b909ea5801
 
 defaults:
   -
     scope:
       path: ""
     values:
-      layout: "docs"
+      layout: "page"
 
 collections:
   events:
@@ -25,11 +25,8 @@ collections:
     output: true
     permalink: /:path/
 
-sass:
-  sass_dir: _sass
-
 styles:
-  - /assets/main.css
+  - /assets/css/main.css
   
 kramdown:
   hard_wrap: true
