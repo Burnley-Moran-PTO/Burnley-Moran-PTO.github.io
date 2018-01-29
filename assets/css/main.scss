@@ -13,4 +13,35 @@ $color-secondary-dark: $color-gold-dark;
 $color-secondary-darkest: $color-gold-darkest;
 
 @import 'uswds/all';
-@import 'uswds-overrides';
+
+// Hero -------------- //
+
+.usa-hero-callout {
+  .usa-button {
+    background-color: $color-secondary;
+    color: $color-base;
+    display: block;
+    margin-top: 2em;
+    
+    &:hover {
+      background-color: $color-secondary-dark;
+      color: $color-base;
+    }
+  }
+}
+
+@include media($small-screen) {
+  .usa-hero-callout {
+    max-width: 31rem;
+  }
+}
+
+// Footer -------------- //
+
+.usa-footer-logo {
+  display: none;
+}
+
+.usa-footer-contact-links {
+  text-align: left;
+}
