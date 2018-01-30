@@ -2,10 +2,9 @@
 title: Teacher Appreciation Potluck
 event_date: '2017-09-28'
 ---
-
 # Teacher Appreciation Potluck
 
-<img src="/uploads/ptotodolist.png" width="300" alt="Image of to do list">
+![](/uploads/ptotodolist.png)
 
 Friday, September 29
 Burnley-Moran Elementary School
