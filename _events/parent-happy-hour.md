@@ -1,6 +1,6 @@
 ---
 title: Parent Happy Hour
-event_date: 2017-09-03T20:00:00-04:00
+event_date: '2017-09-03'
 ---
 
 # Parent Happy Hour
