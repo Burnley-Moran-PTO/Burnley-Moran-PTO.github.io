@@ -23,13 +23,10 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Other"
-    name: "other"
-    files:
-      - label: "Home"
-        name: "home"
-        file: "index.md"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Tagline", name: "tagline", widget: "string"}
-          - {label: "Intro", name: "intro", widget: "markdown"}
+  - label: "Home"
+    name: "home"
+    file: "index.md"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tagline", name: "tagline", widget: "string"}
+      - {label: "Intro", name: "intro", widget: "markdown"}
