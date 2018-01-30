@@ -1,6 +1,6 @@
 ---
 title: September PTO Meeting
-event_date: 2017-09-18
+event_date: 2017-09-17T20:00:00-04:00
 ---
 
 # September PTO Meeting
