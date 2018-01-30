@@ -1,6 +1,6 @@
 ---
 title: Teacher Appreciation Potluck
-event_date: 2017-09-28T20:00:00-04:00
+event_date: '2017-09-28'
 ---
 
 # Teacher Appreciation Potluck
