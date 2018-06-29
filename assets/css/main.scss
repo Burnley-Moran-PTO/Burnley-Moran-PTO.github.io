@@ -14,6 +14,19 @@ $color-secondary-darkest: $color-gold-darkest;
 
 @import 'uswds/all';
 
+@include media($nav-width) {
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  #main-content {
+    flex-grow: 1;
+  }
+}
+
+
 // Hero -------------- //
 
 .usa-hero-callout {
@@ -22,7 +35,7 @@ $color-secondary-darkest: $color-gold-darkest;
     color: $color-base;
     display: block;
     margin-top: 2em;
-    
+
     &:hover {
       background-color: $color-secondary-dark;
       color: $color-base;
@@ -33,6 +46,24 @@ $color-secondary-darkest: $color-gold-darkest;
 @include media($small-screen) {
   .usa-hero-callout {
     max-width: 31rem;
+  }
+}
+
+// Header -------------- //
+
+.usa-logo-text img {
+  display: none;
+}
+
+@include media($nav-width) {
+  .usa-logo-text a {
+    align-items: center;
+    display:flex;
+
+    img {
+      display: block;
+      margin-right: 1rem;
+    }
   }
 }
 
