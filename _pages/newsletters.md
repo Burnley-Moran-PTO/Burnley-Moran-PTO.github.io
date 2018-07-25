@@ -3,7 +3,7 @@ title: Newsletters
 permalink: /newsletters/
 ---
 
-<p class="usa-font-lead">We send a monthly email newsletter. Sign up for our newsletter below:!</p>
+<p class="usa-font-lead">We send a monthly email newsletter. Sign up for our newsletter below:</p>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
