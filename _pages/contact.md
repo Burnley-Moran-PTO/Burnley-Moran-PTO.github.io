@@ -4,14 +4,20 @@ permalink: /contact/
 ---
 
 ## Board Members
-Treasurer - Dave Groff
-Secretary - Rebecca Wilder
-Community Outreach - Kristin Clarens
 
 ### Co-Chairs
 Kara West & Drew Hurst
 
-## Contact the PTO
+### Treasurer
+Dave Groff
+
+### Secretary
+Rebecca Wilder
+
+### Community Outreach
+Kristin Clarens
+
+## Contact the Burnley-Moran PTO
 <form class="usa-form" action="https://formspree.io/drewchurst@gmail.com" method="POST">
   <input type="hidden" name="_next" value="{{ site.url }}" />
   <input type="hidden" name="_subject" value="Contact form: {{ site.title }}" />
