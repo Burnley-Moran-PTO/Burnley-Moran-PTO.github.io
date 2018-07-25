@@ -4,9 +4,12 @@ permalink: /contact/
 ---
 
 ## Board Members
+Treasurer - Dave Groff
+Secretary - Rebecca Wilder
+Community Outreach - Kristin Clarens
 
 ### Co-Chairs
-Kristin Clarens &amp; Keisha Washington
+Kara West & Drew Hurst
 
 ## Contact the PTO
 <form class="usa-form" action="https://formspree.io/drewchurst@gmail.com" method="POST">
