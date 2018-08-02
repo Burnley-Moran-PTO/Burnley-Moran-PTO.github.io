@@ -2,10 +2,17 @@
 {% assign _events = site.events | where_exp: 'event', 'event.event_date > _today' | sort: 'event_date' %}
 {% if _events.size > 0 %}
 <ul>
-  {% for event in _events limit:3 %}
-    <li><a href="{{ event.url }}">{{ event.title }}</a><br>
-    <em>{{ event.event_date | date: "%m/%d/%Y" }}</em></li>
-  {% endfor %}
+  {% if page.layout == 'home' %}
+    {% for event in _events limit:3 %}
+      <li><a href="{{ event.url }}">{{ event.title }}</a><br>
+      <em>{{ event.event_date | date: "%m/%d/%Y" }}</em></li>
+    {% endfor %}
+  {% else %}
+    {% for event in _events %}
+      <li><a href="{{ event.url }}">{{ event.title }}</a><br>
+      <em>{{ event.event_date | date: "%m/%d/%Y" }}</em></li>
+    {% endfor %}
+  {% endif %}
 </ul>
 {% else %}
 <p>
