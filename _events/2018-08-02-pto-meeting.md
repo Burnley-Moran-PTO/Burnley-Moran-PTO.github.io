@@ -1,7 +1,7 @@
 ---
 title: PTO Meeting
-event_date: '2018-09-25'
+event_date: '2018-11-13'
 ---
-Join us for the first PTO meeting of the year. Dr. Korab will present a State of the School. Learn more about the PTO, our school, and ways to get involved. Free dinner and childcare will be provided.
+Join us for our November PTO meeting. Free dinner and childcare is provided! 
 
-![](/uploads/ptotodolist.png)
+![](/uploads/to-do-list_attend-the-burnley-moran-pto-meeting-tonight-at-6_00-pm-in-the-library-.free-childcare-.png)
