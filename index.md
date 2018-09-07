@@ -20,3 +20,18 @@ intro: >-
   Bobcat family!
 ---
 
+{% assign hero = page.hero %}
+{% include components/hero.html %}
+
+{% if page.tagline and page.intro %}
+<section class="usa-grid usa-section">
+  <div class="usa-width-two-thirds">
+    <h2>{{ page.tagline }}</h2>
+    {{ page.intro | markdownify }}
+  </div>
+  <div class="usa-width-one-third">
+    <h3>Upcoming events</h3>
+    {% include events.html %}
+  </div>
+</section>
+{% endif %}
