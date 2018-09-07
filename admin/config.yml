@@ -31,5 +31,8 @@ collections:
         file: "index.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden"}
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Hero", name: "hero", widget: "hidden"}
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Intro", name: "intro", widget: "markdown"}
