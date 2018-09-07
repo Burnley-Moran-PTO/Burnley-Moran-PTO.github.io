@@ -36,3 +36,4 @@ collections:
           - {label: "Hero", name: "hero", widget: "hidden"}
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Intro", name: "intro", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "hidden"}
