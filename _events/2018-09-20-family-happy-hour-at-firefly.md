@@ -8,4 +8,4 @@ _Pro tip: Bring change for the arcade games!_
 
 Firefly has kindly offered to give us 10% of proceeds that evening to help fund our Bobcat Community Assistance Fund.
 
-![](/uploads/happy-hour-flyer.png)
+![null](/uploads/happy-hour-flyer.png)
